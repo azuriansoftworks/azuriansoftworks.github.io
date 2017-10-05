@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Alchemicidle-Build.data.unityweb",
+"asmCodeUrl": "Alchemicidle-Build.asm.code.unityweb",
+"asmMemoryUrl": "Alchemicidle-Build.asm.memory.unityweb",
+"asmFrameworkUrl": "Alchemicidle-Build.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
